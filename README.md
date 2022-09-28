@@ -9,3 +9,12 @@
   
  - 기초적인 weight는 coco 데이터셋으로 학습한 pretrained 가중치를 사용함
  - 공부와 end-to-end 형태로 만들기 위함이었기에 따로 학습은 진행하지 않음
+
+- - -
+### Image 이후 Video Inpainting
+   
+***GIF 용량 문제로 이미지 크기가 다름***
+
+
+![KakaoTalk_20220929_003945623 (1) (1) (1)](https://user-images.githubusercontent.com/106142401/192827076-e1b2289e-7e3f-44bf-ace6-726786575564.gif)
+![KakaoTalk_20220929_003946908-min](https://user-images.githubusercontent.com/106142401/192825379-63eeeaab-b07c-406f-8dda-8ef1e3d6d8e0.gif)

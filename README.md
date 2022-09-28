@@ -1,4 +1,4 @@
-# InPainting_GAN
+# InPainting
 
 ### InPainting 프로젝트
 - GAN과 InPainting에 대한 이해 목표

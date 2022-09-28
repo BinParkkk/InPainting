@@ -10,6 +10,11 @@
  - 기초적인 weight는 coco 데이터셋으로 학습한 pretrained 가중치를 사용함
  - 공부와 end-to-end 형태로 만들기 위함이었기에 따로 학습은 진행하지 않음
 
+###
+- Detectron2 사용
+- LAMA 모델 사용
+- Colab Pro 환경
+
 - - -
 ### Image 이후 Video Inpainting
    
